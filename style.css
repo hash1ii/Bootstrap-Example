@@ -1,0 +1,225 @@
+.navbar-brand{
+    font-family:cursive;
+  
+}
+.navbar-nav{
+    margin-left: auto;  
+}
+.slide{
+    height: 750px;
+}
+.btn{
+    width: 200px;
+    height: 68px;
+}
+.carousel-caption{
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    bottom: 50%; 
+  }
+  .heading{
+    font-size:70px;
+    padding: 2px;
+    font-weight: bold;
+  }
+  .textsize{
+    font-size: 40px;
+    padding: 2px;
+    font-style: italic;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+  }
+  
+  .bi{
+    padding: 20px;
+    
+  }
+  .image{
+    display:inline-block;
+    width: 30%; 
+  }
+ .container{
+  padding: 80px;
+  
+ } 
+ .servicetext{
+padding-top: 40px;
+ }
+ .portofolia{
+  background-color: aliceblue;
+  padding: 100px;
+ } 
+ h2{
+  font-size: 1.5rem;
+  font-weight: bold;
+ }
+ #col-4{
+  padding: 20px;
+ }
+ #col-42{
+  padding: 20px;
+ }
+ #col-43{
+  padding: 20px;
+ }
+ .portofolia .portfolio-hover {
+  display: flex;
+  position: absolute;
+  width: 100%;
+  height: 276px;
+  background: rgba(255, 200, 0, 0.9);
+  align-items: center;
+  justify-content: center;
+  opacity: 0;
+  transition: opacity ease-in-out 0.25s;
+  cursor: pointer;
+ }
+
+ .portofolia .card:hover .portfolio-hover {
+  opacity: 1;
+}
+
+ .portfolio-hover .portfolio-hover-content {
+  font-size: 1.25rem;
+  color: white;
+}
+
+.portfolio-hover .portfolio-hover-content:hover{
+  display: contents;
+  font-size: 20px;
+}
+.portfolio-hover .portfolio-hover-content .fa-plus{
+  width: 70px;
+}
+.modal-content{
+  width: 1573px;
+  height: 1000px;
+ align-items: center;
+  
+}
+.btn-close{
+  position: absolute;
+  left: 97%; 
+  top: 4%;
+  
+}
+.modal-body{
+  display: flex;
+}
+.modal-header{
+  display:block;
+}
+#exampleModalLabel{
+  font-size: 50px;
+}
+.btn{
+  width: 300px;
+}
+.about{
+  padding-top: 100px;
+
+}
+#about{
+  font-size: 2.5rem;
+}
+.society .row .col-2{
+  width: 190px;
+  height: 190px;
+  background: #ffc800;
+  text-align: center;
+  padding-top: 42px;
+  border-radius: 50%;
+  border: 8px solid lightgray;
+  position: absolute;
+  right: 710px;
+  position: relative;
+  left: 15px;
+ 
+}
+.ddd .row .col-2{
+  padding-left: 60px;
+}
+
+.eee .row .col-2  {
+  padding-left: 60px;
+}
+
+.eee .row .col-5{
+  padding-left: 60px;
+} 
+.society{
+  padding-bottom: 50px;
+ 
+}
+.rrr{
+  border:2px solid lightgray;
+  width: 1px;
+  position: relative;
+  left: 586px;
+  height: 120px;
+}
+.ouramazingteam{
+  background: aliceblue;
+  padding:100px;
+}
+.paragraph{
+  padding-top: 75px;
+}
+.icons{
+position: relative;
+  color: white;
+  padding-top:10px ;
+  font-size: larger;
+  cursor: pointer;
+  text-align: center;
+
+}
+
+.oat{
+  padding-bottom: 50px;
+}
+.oat2{
+  padding-top: 20px;
+}
+.clients{
+  padding-top: 60px;
+  padding-bottom: 60px;
+  text-align: center;
+
+}
+.contact{
+  background-image: url(/bg\ image.jpeg);
+  padding: 80px;
+}
+.mb-3 input{
+  height: 65px;
+}
+#message{
+  height: 275px;
+  position: relative;
+  top: 24px;
+}
+.footer{
+  padding: 40px;
+  
+}
+.clients .row{
+  margin-right: 0!important;
+}
+
+
+
+
+
+
+ 
+ 
+
+
+    
+
+  
+  
+  
+    
